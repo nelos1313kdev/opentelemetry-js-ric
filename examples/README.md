@@ -32,3 +32,5 @@ Please see [CONTRIBUTING.md](https://github.com/open-telemetry/opentelemetry-js/
 Apache License 2.0
 
 [opentelemetry-js-contrib-examples]: https://github.com/open-telemetry/opentelemetry-js-contrib/tree/main/examples
+
+<!-- //hello world -->
