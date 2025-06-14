@@ -8,7 +8,7 @@
   </strong>
 </p> 
 <!-- //update -->
-
+<!-- //update -->
 <p align="center">
   <a href="https://github.com/open-telemetry/opentelemetry-js/releases">
     <img alt="GitHub release (latest by date including pre-releases)" src="https://img.shields.io/github/v/release/open-telemetry/opentelemetry-js?include_prereleases&style=for-the-badge">
