@@ -6,7 +6,8 @@
     &nbsp;&nbsp;&bull;&nbsp;&nbsp;
     <a href="https://open-telemetry.github.io/opentelemetry-js">API and SDK Reference</a>
   </strong>
-</p>
+</p> 
+<!-- //update -->
 
 <p align="center">
   <a href="https://github.com/open-telemetry/opentelemetry-js/releases">
